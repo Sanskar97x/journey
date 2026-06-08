@@ -7,4 +7,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="Notes\Week-24\Monday.md" />
+    <Compile Include="Notes\Week2\Week2-Day2.md" />
+  </ItemGroup>
+
 </Project>
